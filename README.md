@@ -11,7 +11,7 @@
 * Used a TFIDF Vectorizer to dissect the text in articles to establish a correlation between vocabulary and frequency of words
 * Finalized a script to test whether an article if real or fake
 
-![](/images/WordCount.png)
+![](/images/WordCount.jpg)
 
 # [Wandering Ice Breaker](https://play.google.com/store/apps/details?id=com.Quaranteam.WanderingIceBreaker)
 * 2D puzzle game where you maneuver around levels of shattering thin ice
